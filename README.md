@@ -25,7 +25,7 @@ Cloud Engineer | Aspiring Cloud Security / Cybersecurity Analyst | Student @ Mia
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" alt="AWS Cloud Resume Architecture" width="700"/>
+  <img src="architecture.png" alt="AWS Cloud Resume Architecture" width="700"/>
 </p>
 
 
