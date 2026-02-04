@@ -40,7 +40,8 @@ Hands-on experience in incident response, network analysis, threat detection, an
 
 
 ## 📫 Connect with me
-📄 **Resume:** [Download PDF] (file:///C:/Users/samee/Downloads/Sameera_M_Resume%20(1)%20(1).pdf)  
+📄 **Resume:** [Download PDF](Sameera_M_Resume%20(1)%20(1).pdf)
+ 
 🔗 **LinkedIn:** https://www.linkedin.com/in/sameera-masood-44032a253/ 
 - **Email:** sameeramasood3@gmail.com
 
