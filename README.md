@@ -21,6 +21,16 @@ Cloud Engineer | Aspiring Cloud Security / Cybersecurity Analyst | Student @ Mia
 - Repositories:  
   - 🔹 Backend: https://github.com/S-M123/AWS-Cloud-resume-Backend  
   - 🔹 Frontend: https://github.com/S-M123/aws-cloud-resume-challenge
+ 
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" alt="AWS Cloud Resume Architecture" width="700"/>
+</p>
+
+
+
+
 
 
 ## 🛠️ Tech Stack, Certifications & Cyber Competitions
