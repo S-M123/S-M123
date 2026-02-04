@@ -1,4 +1,4 @@
-# Hi, I'm Sameera 👋
+# Hi, I'm Sameera M.👋
 Cloud Engineer | Aspiring Cloud Security / Cybersecurity Analyst | Student @ Miami Dade College
 
 ## 🚀 What I’m working on
@@ -10,6 +10,18 @@ Cloud Engineer | Aspiring Cloud Security / Cybersecurity Analyst | Student @ Mia
 - Cloud: AWS, Azure, Terraform
 - Security: Security fundamentals, logging/monitoring, vulnerability basics
 - Tools: Git, Linux, Wireshark, Splunk (or what you use)
+
+- ## 📌 Featured Projects
+
+☁️ **AWS Cloud Resume Challenge**  
+- Built a cloud-hosted resume using AWS services  
+- Frontend: HTML hosted on S3  
+- Backend: Python (Lambda) with API Gateway  
+- Infrastructure concepts: serverless, cloud architecture  
+- Repositories:  
+  - 🔹 Backend: https://github.com/S-M123/AWS-Cloud-resume-Backend  
+  - 🔹 Frontend: https://github.com/S-M123/aws-cloud-resume-challenge
+
 
 ## 🛠️ Tech Stack, Certifications & Cyber Competitions
 
